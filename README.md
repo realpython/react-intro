@@ -22,7 +22,6 @@
   - [Docker](http://hub.docker.com)
   - [Instacart](http://instacart.com)
 
-
 #### What is React?
 
 - The *view*!
@@ -30,7 +29,15 @@
 - Implementation of Web Components, the new standard for custom HTML5 UI elements
 - Compared to AngularJS directives
 
+"React is all about building reusable components. In fact, with React the only thing you do is build components. Since they're so encapsulated, components make code reuse, testing, and separation of concerns easy." - [facebook.github.io](https://facebook.github.io/react/docs/why-react.html#build-composable-components)
+
 ## Tools
+- [Node](https://nodejs.org/en/)
+- [NPM](https://www.npmjs.com/)
+- [Webpack](https://webpack.github.io)
+- [Babel](https://babeljs.io/)
+- [Redux](http://redux.js.org/)
+
 
 ## Components
 
