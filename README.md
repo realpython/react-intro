@@ -40,6 +40,8 @@ Our tooling or build process will utilize the following:
 - ES6 Compiler
  - [Babel](https://babeljs.io/)
 
+## Project Structure
+
 ## Components
 
 - ES6
@@ -47,5 +49,7 @@ Our tooling or build process will utilize the following:
 - `this.props`
 
 ## Build
+
+
 
 ## What's next
