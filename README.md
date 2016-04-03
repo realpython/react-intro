@@ -35,16 +35,56 @@ Who's using React?
 
 ### Tools
 
-Our tooling or build process will utilize the following:
+Modern-day JavaScript development is all about tools. We will utilize:
 
-- Package Manager
-  - [NPM](https://www.npmjs.com/)
-- Module Bundler
-  - [Webpack](https://webpack.github.io)
-- ES6 Compiler
- - [Babel](https://babeljs.io/)
+- [NPM](https://www.npmjs.com/) for managing dependncies
+- [Webpack](https://webpack.github.io) for bundling modules
+- [Babel](https://babeljs.io/) for transpiling ES6 to ES5
+
+Let's get them installed!
+
+Start by going to the [Node.js Foundation](https://nodejs.org/en/) to install both NodeJS and NPM.
+
+Once done, clone down the boilerplate structure and install the remaining dependencies:
+
+- React and the React DOM
+
+  ```sh
+  npm install --save react@0.14.8
+  npm install --save react-dom@0.14.8
+  ```
+
+- Webpack and the Webpack development server (the latter is used for serving up the bundled JavaScript application):
+
+  ```sh
+  npm install --save-dev webpack@1.12.14
+  npm install -g webpack-dev-server@1.14.1
+  ```
+
+- Babel and the Babel tools for React
+
+  ```sh
+  npm install --save-dev babel-core@6.7.4
+  npm install --save-dev babel-loader@6.2.4
+  npm install --save-dev babel-preset-es2015@6.6.0
+  npm install --save-dev babel-preset-react@6.5.0
+  ```
 
 ## Project Structure
+
+Your project Structure should now look like this:
+
+```sh
+├── index.html
+├── package.json
+├── src
+│   ├── components
+│   │   └── App.jsx
+│   └── index.js
+└── webpack.config.js
+```
+
+ADD EXPLANATION
 
 ## Components
 
