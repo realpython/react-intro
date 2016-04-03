@@ -11,11 +11,11 @@ In this part, we'll detail how to set up a basic React todo app, utilizing ES6 s
 
 ### What is React?
 
-React simplifies both the building and maintaining of Single Page Applications by making it easy to create reusible UI components and manage changes (e.g., state) to your application's data. Further:
+React simplifies both the building and maintaining of Single Page Applications by making it easy to create reusible UI components and manage changes (e.g., state) to your application's data.
 
 - React is a library not a framework. Unlike full JavaScript UI Frameworks, like Angular and Ember, React is just a JavaScript library that provies a view for data rendered as HTML. Put another way, it's the *view* in MVC!
 - It's an implementation of Web Components, the new standard for custom HTML5 UI elements
-- Compared to AngularJS directives: "React is all about building reusable components. In fact, with React the only thing you do is build components. Since they're so encapsulated, components make code reuse, testing, and separation of concerns easy." - [Facebook - Why React?](https://facebook.github.io/react/docs/why-react.html#build-composable-components)
+- Compared to AngularJS directives: "React is all about building reusable components. In fact, with React the only thing you do is build components. Since they're so encapsulated, components make code reuse, testing, and separation of concerns easy." (Source: [Facebook](https://facebook.github.io/react/docs/why-react.html#build-composable-components))
 
 Who's using React?
 
