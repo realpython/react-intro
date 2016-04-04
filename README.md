@@ -1,6 +1,6 @@
 # Discover React
 
-## Part 1 - React
+## Part 1 - React Intro
 
 In this part, we'll detail how to set up a basic React todo app, utilizing ES6 syntax, Babel to transpile ES6 to ES5, and Webpack to bundle everything together.
 
@@ -70,7 +70,7 @@ Once done, clone down the boilerplate structure (00_todo) and install the remain
   npm install --save-dev babel-preset-react@6.5.0
   ```
 
-## Project Structure
+### Project Structure
 
 Your project structure should now look like this:
 
@@ -86,16 +86,26 @@ Your project structure should now look like this:
 
 ADD EXPLANATION OF THE STRUCTURE
 
+
 webpack-dev-server --progress --colors
 
-## Components
+### Your First Component
+
+It's time to say, "Hello World!"!
 
 - ES6
 - `this.state`
 - `this.props`
 
-## Build
+### Build
+
+DETAIL THE BUILD PROCESS
+
+### What's next
+
+1. RECAP
+2. INFO ON CREATING A TODO APP
+
+## Part 2 - React Todo
 
 
-
-## What's next
