@@ -45,7 +45,7 @@ Let's get them installed!
 
 Start by going to the [Node.js Foundation](https://nodejs.org/en/) to install both NodeJS and NPM.
 
-Once done, clone down the boilerplate structure and install the remaining dependencies:
+Once done, clone down the boilerplate structure (00_todo) and install the remaining dependencies:
 
 - React and the React DOM
 
@@ -54,7 +54,7 @@ Once done, clone down the boilerplate structure and install the remaining depend
   npm install --save react-dom@0.14.8
   ```
 
-- Webpack and the Webpack development server (the latter is used for serving up the bundled JavaScript application):
+- Webpack and the Webpack development server (the latter is used for serving up the bundled JavaScript application)
 
   ```sh
   npm install --save-dev webpack@1.12.14
@@ -72,7 +72,7 @@ Once done, clone down the boilerplate structure and install the remaining depend
 
 ## Project Structure
 
-Your project Structure should now look like this:
+Your project structure should now look like this:
 
 ```sh
 ├── index.html
@@ -84,7 +84,9 @@ Your project Structure should now look like this:
 └── webpack.config.js
 ```
 
-ADD EXPLANATION
+ADD EXPLANATION OF THE STRUCTURE
+
+webpack-dev-server --progress --colors
 
 ## Components
 
