@@ -1,5 +1,7 @@
 # Discover React
 
+https://www.youtube.com/watch?v=PGUMRVowdv8&feature=youtu.be
+
 ## Part 1 - React Intro
 
 In this part, we'll detail how to set up a basic React todo app, utilizing ES6 syntax, Babel to transpile ES6 to ES5, and Webpack to bundle everything together.
