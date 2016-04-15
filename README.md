@@ -1,6 +1,7 @@
 # Discover React
 
-https://www.youtube.com/watch?v=PGUMRVowdv8&feature=youtu.be
+- https://www.youtube.com/watch?v=PGUMRVowdv8&feature=youtu.be
+- https://github.com/petehunt/webpack-howto
 
 ## Part 1 - React Intro
 
